@@ -1,6 +1,6 @@
-# Spring Boot Hello World Example with Thymeleaf
+# Spring Boot Example with Thymeleaf
 
-## Guide
+## Reference Guide
 https://hellokoding.com/spring-boot-hello-world-example-with-thymeleaf/
 
 ## What you'll need
